@@ -499,5 +499,7 @@ La aplicación incluye datos de prueba que se cargan automáticamente al iniciar
 
 # 👨‍💻 Autor
 Matías Sebastián Araya 
-Estudiante de Tecnicatura Universitaria en Programación  
+
+Estudiante de Tecnicatura Universitaria en Programación 
+
 Universidad Tecnológica Nacional (UTN)(FRM)
